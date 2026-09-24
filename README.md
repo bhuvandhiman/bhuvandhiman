@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I’m Bhuvan 👋
 
-a Computer Science undergrad who enjoys solving problems and building things that actually work.
+I'm a Computer Science undergrad who enjoys solving problems and building things that actually work.
 
 Most of my time goes into **DSA and turning small ideas into practical projects**.
 
@@ -28,11 +28,9 @@ The dashboard ranks your performance across different DSA patterns and highlight
 ## A little more about me
 
 - 🎓 Computer Science undergrad graduating in 2027
-- 🔨 I like building practical projects that solve an actual problem
 - 🧩 400+ LeetCode problems solved
 - 🎬 Always up for a good movie
 
-## Find me
-
-[LinkedIn](https://www.linkedin.com/in/bhuvandhiman/) ·
-[LeetCode](https://leetcode.com/u/bhuvandhiman/)
+ #### Find me 
+ [LinkedIn](https://www.linkedin.com/in/bhuvandhiman/) · 
+ [LeetCode](https://leetcode.com/u/bhuvandhiman/)
